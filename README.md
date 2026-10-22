@@ -1,7 +1,9 @@
 # Adaptive Congestion-Control Simulator and Performance Analyzer
 
 ## Overview
-A Python-based application that simulates and compares TCP Tahoe, TCP Reno, and AIMD congestion-control algorithms under different network conditions.
+Network congestion occurs when more data is sent through a network than the network can handle efficiently. Congestion can contribute to packet loss, delays, and reduced throughput. TCP congestion-control algorithms regulate how much data a sender can have in flight.
+
+This is a Python-based application that simulates and compares TCP Tahoe, TCP Reno, and AIMD congestion-control algorithms under different network conditions.
 
 The application visualizes congestion-window behavior and evaluates performance using metrics such as throughput, packet loss rate, average congestion window, congestion events, and estimated recovery time.
 
