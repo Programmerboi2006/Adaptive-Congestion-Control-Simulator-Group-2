@@ -51,3 +51,9 @@ The application visualizes congestion-window behavior and evaluates performance 
 
 ## Limitations
 This project is a simplified software simulation. It does not transmit real TCP packets or implement a complete TCP networking stack. Some loss classification and recovery measurements are heuristic approximations.
+
+## Contributions
+Neel Rede
+Arya Kale
+Saumya Shah
+Parth Agrawal
